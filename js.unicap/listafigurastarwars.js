@@ -85,4 +85,3 @@ btnShow.onclick = ListStarWarsPeople;
 btnNext.onclick = NextPage;
 btnPrevious.onclick = PreviousPage; 
  93  
-style.css
